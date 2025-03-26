@@ -7,6 +7,7 @@ If you’ve ever found yourself drowning in endless papers and thought, "How sho
 ## Disclaimer
 LitVis is a hobby project created to assist with literature research management. It contains many (for me) useful features and I know that it works on my computer but if it doesn´t work on yours I am sorry, I can´t help :D 
 But feel free to adjust or to improve the code! I am pretty sure I made stupid mistakes and left some unnessecary parts in the code but I am afraid to delete them.
+!! LitVis does not automatically save changes - you have to do that by export project (to save the formatting as well) or export CSV (to e.g. open the chart in Excel later, but then formatting (colours etc. will not be exported)
 
 
 ## Features
