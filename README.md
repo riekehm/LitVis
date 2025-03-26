@@ -9,6 +9,14 @@ LitVis is a hobby project created to assist with literature research management.
 But feel free to adjust or to improve the code! I am pretty sure I made stupid mistakes and left some unnessecary parts in the code but I am afraid to delete them.
 !! LitVis does not automatically save changes - you have to do that by export project (to save the formatting as well) or export CSV (to e.g. open the chart in Excel later, but then formatting (colours etc. will not be exported)
 
+## How I use LitVis 
+You can of course use LitVis for whatever you want - I use it for Literature Research so I have columns like: 
+Title, Author, Year, Conducted Area, Keywords, Abstract, Introduction, Methods, Results, Discussion, Comments 
+
+when I read papers, I use this to make notes and to keep mit research organised!
+
+Hope you have fun with it!
+
 
 ## Features
 
