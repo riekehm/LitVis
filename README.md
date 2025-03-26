@@ -40,10 +40,12 @@ LitVis is a hobby project created to assist with literature research management.
      ```bash
     python -m venv venv
      
-  ### On Windows:
-  venv\Scripts\activate
-  ### On macOS/Linux:
-  source venv/bin/activate
+    ### On Windows:
+    venv\Scripts\activate
+    ### On macOS/Linux:
+    source venv/bin/activate
+
+     
 3. **Install Dependencies:**
 
      ```bash
